@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import Header from "./Header";
+import Home from "./Splash";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       {/* Home - Splash component */}
 
       <Header />
+      <Home />
     </div>
   );
 }

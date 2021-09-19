@@ -47,3 +47,23 @@
     margin-right: 10px;
     color: white;
 }
+
+.header_ele_one {
+    font-size: 15px;
+}
+
+.header_ele_two {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.header_basket {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.header_basketAmount {
+    margin-left: 10px;
+    margin-right: 10px;
+}
